@@ -1,7 +1,7 @@
 # Pythonic_Monopoly
 The dashboard was created so you can interact with the data in a way that allows you to focus in on specific data points. For instance, under the interactive market analysis tab, you'll find a tool bar to the left of the chart. The tool with the magnified glass allows for you to zoom in on certain data points and it'll create a temporary chart that allows you to focus on a subset of datapoints within the entire dataset. If you would like to go back to the original chart, you can click the icon with the arrows going in a circle. The dashboard has the following tabs: 'Welcome', 'Yearly Market Analysis', 'Interactive Market Analysis by Neighborhood', and 'Parallel Plot Analysis'.
 
-Under the welcome tab, you can use the interactive chart displayed in order to track the price data throughout the city of San Francisco. The data is colored on the map, with a bar on the side indicating which color corresponds to which price range. 
+Under the welcome tab, you can use the interactive chart displayed in order to track the price data throughout the city of San Francisco. The data is colored on the map, with a bar on the side indicating which color corresponds to which price range. You can find the tool bar at the top right corner, which allows for you change the view (i.e. move different directions, select certain data by using the box select tool, and you can zoom in/out). 
 
 Under the yearly market analysis tab, you have three charts: 1) a bar chart, displaying the average number of units sold per year, 2) a line chart, displaying the average gross rent per year, and 3) a line chart, displaying the average sales price per year.
 
